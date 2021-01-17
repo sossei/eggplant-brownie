@@ -28,6 +28,7 @@
 		43D615BC25B4BFFA00E02C59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43D615C625B4C33300E02C59 /* Refeicao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Refeicao.swift; sourceTree = "<group>"; };
 		43D615C925B4C36500E02C59 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		43D615CC25B4CA3100E02C59 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				43D615AE25B4BFF500E02C59 /* AppDelegate.swift */,
 				43D615B025B4BFF500E02C59 /* SceneDelegate.swift */,
 				43D615B725B4BFFA00E02C59 /* Assets.xcassets */,
+				43D615CC25B4CA3100E02C59 /* MyPlayground.playground */,
 				43D615B925B4BFFA00E02C59 /* LaunchScreen.storyboard */,
 				43D615BC25B4BFFA00E02C59 /* Info.plist */,
 			);
